@@ -8,20 +8,20 @@ Contact us today to get a free quote for an audit of your project's smart contra
 
 <!--Contacts -->
 ### Contact Methods  📝📧
-- Telegram: [@Solidity_Finance](https://t.me/Solidity_Finance) (Preferred)
-- Email: [info@Solidity.Finance](mailto:info@solidity.finance)
-- Twitter: [@SolidityFinance](https://twitter.com/SolidityFinance)
-- Discord: [@Solidity Finance LLC#1814](https://discord.com/invite/StZXfBXnpE)
+- Telegram: [@SourceHat](https://t.me/SourceHat) (Preferred)
+- Email: [info@SourceHat.com](mailto:info@SourceHat.com)
+- Twitter: [@SolidityFinance](https://twitter.com/SourceHatLabs)
+- Discord: [@SourceHat](https://discordapp.com/users/776650569045508106))
 
 
 ### Social Channels 📣📢
-- Twitter: [@SolidityFinance](https://twitter.com/SolidityFinance)
-- Telegram Announcements: [@SolidityFinance](https://t.me/SolidityFinance)
-- LinkedIn: [Solidity Finance - Smart Contract Audit Services](https://linkedin.com/company/solidityfinance)
+- Twitter: [@SourceHatLabs]([https://twitter.com/SolidityFinance](https://twitter.com/SourceHatLabs))
+- Telegram Announcements: [@SourceHatLabs](https://t.me/SourceHatLabs)
+- LinkedIn: [SourceHat (formerly Solidity Finance)](https://linkedin.com/company/SourceHat)
 
 
 <!-- Badges -->
-#### [![SourceHat Solidity Finance Smart Contract Audit Services Telegram Contact](https://img.shields.io/badge/-Telegram-60B7FF?style=flat&logo=Telegram&logoColor=white&link=https://twitter.com/SolidityFinance)](https://twitter.com/SolidityFinance) [![SourceHat Solidity Finance Smart Contract Audit Services Twitter](https://img.shields.io/badge/-Twitter-3087E5?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/SolidityFinance)](https://twitter.com/SolidityFinance) [![SourceHat Solidity Finance Smart Contract Audit Services Email](https://img.shields.io/badge/-Email-242A2D?style=flat&logo=mail&logoColor=white&link=mailto:info@solidity.finance)](mailto:info@solidity.finance) [![SourceHat Solidity Finance Smart Contract Audit Services Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/solidityfinance)](https://www.linkedin.com/company/solidityfinance) [![SourceHat Solidity Finance Smart Contract Audit Services Telegram Announcements](https://img.shields.io/badge/-Telegram_Announcements-88B7DC?style=flat&logo=Telegram&logoColor=white&link=https://twitter.com/SolidityFinance)](https://twitter.com/SolidityFinance)
+#### [![SourceHat formerly Solidity Finance Smart Contract Audit Services Telegram Contact](https://img.shields.io/badge/-Telegram-60B7FF?style=flat&logo=Telegram&logoColor=white&link=https://twitter.com/SolidityFinance)](https://twitter.com/SolidityFinance) [![SourceHat formerly Solidity Finance Smart Contract Audit Services Twitter](https://img.shields.io/badge/-Twitter-3087E5?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/SolidityFinance)](https://twitter.com/SolidityFinance) [![SourceHat formerly Solidity Finance Smart Contract Audit Services Email](https://img.shields.io/badge/-Email-242A2D?style=flat&logo=mail&logoColor=white&link=mailto:info@solidity.finance)](mailto:info@solidity.finance) [![SourceHat formerly Solidity Finance Smart Contract Audit Services Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/solidityfinance)](https://www.linkedin.com/company/solidityfinance) [![SourceHat formerly Solidity Finance Smart Contract Audit Services Telegram Announcements](https://img.shields.io/badge/-Telegram_Announcements-88B7DC?style=flat&logo=Telegram&logoColor=white&link=https://twitter.com/SolidityFinance)](https://twitter.com/SolidityFinance)
 
 
 <!--Methodology -->
@@ -64,7 +64,7 @@ We do not require KYC. We can offer [DeFi KYC services](https://sourcehat.com/ky
 
 <!--Why -->
 ## Why Choose SourceHat (formerly Solidity Finance)?
-Our team has conducted 1700+ solidity smart contract audits covering all major project types and protocols, securing a total of over $50 billion U.S. dollars in on-chain value. Solidity Finance is well-reputed in the community and is trusted as a top smart contract auditing company for the review of solidity code, no matter how complex.
+Our team has conducted 1700+ solidity smart contract audits covering all major project types and protocols, securing a total of over $50 billion U.S. dollars in on-chain value. SourceHat is well-reputed in the community and is trusted as a top smart contract auditing company for the review of solidity code, no matter how complex.
 
 -   **Free Smart Contract Audit Quote**
 -   **Turnaround as Fast as 36 Hours**
@@ -73,7 +73,7 @@ Our team has conducted 1700+ solidity smart contract audits covering all major p
 -   Long-Time Solidity Experts
 -   Clear and Concise Reports
 -   Audits Accepted by IDO Platforms
--   Automated Penetration Testing
+-   Penetration Testing
 
 ## Questions?
 Have any questions about us or our process; or anything else you'd like to discuss?  
