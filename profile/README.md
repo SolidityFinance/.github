@@ -10,7 +10,7 @@ Contact us today to get a free quote for an audit of your project's smart contra
 ### Contact Methods  📝📧
 - Telegram: [@SourceHat](https://t.me/SourceHat) (Preferred)
 - Email: [info@SourceHat.com](mailto:info@SourceHat.com)
-- Twitter: [@SolidityFinance](https://twitter.com/SourceHatLabs)
+- Twitter: [@SourceHatLabs](https://twitter.com/SourceHatLabs)
 - Discord: [@SourceHat](https://discordapp.com/users/776650569045508106))
 
 
