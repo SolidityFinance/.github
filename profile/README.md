@@ -63,7 +63,7 @@ We are approved auditors on  [Unicrypt Network](https://app.unicrypt.network/), 
 We do not require KYC. We can offer [DeFi KYC services](https://sourcehat.com/kyc), however, through our acquisition of [KYC Capital](https://kyc.capital/). All KYC reports will be hosted at [https://sourcehat.com/kyc](https://sourcehat.com/kyc)
 
 <!--Why -->
-## Why Choose SourceHat (formerly Solidity Finance)?
+## Why Choose SourceHat?
 Our team has conducted 1700+ solidity smart contract audits covering all major project types and protocols, securing a total of over $50 billion U.S. dollars in on-chain value. SourceHat is well-reputed in the community and is trusted as a top smart contract auditing company for the review of solidity code, no matter how complex.
 
 -   **Free Smart Contract Audit Quote**
